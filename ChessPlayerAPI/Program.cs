@@ -2,7 +2,6 @@ using ChessPlayerAPI.Data;
 using ChessPlayerAPI.Interfaces;
 using ChessPlayerAPI.Repositories;
 using Microsoft.EntityFrameworkCore;
-using SuperheroAPI.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 ConfigurationManager configuration = builder.Configuration;

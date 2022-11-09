@@ -1,7 +1,7 @@
 ﻿using ChessPlayerAPI.Data;
 using ChessPlayerAPI.Interfaces;
 
-namespace SuperheroAPI.Repositories
+namespace ChessPlayerAPI.Repositories
 {
     public class RecordRepository : IRecordRepository
     {
