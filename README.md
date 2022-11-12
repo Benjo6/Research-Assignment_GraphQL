@@ -34,9 +34,9 @@ If want to create fast, seamless communication between internal services, then g
 
 ## How to Run the sample GraphQL program
 
-1. Run this command : 
+1. Run this command : Add-Migration Initial
 
-2. Run this command : 
+2. Run this command : Update-Database
 
 3. Change the DbConnection string
 
